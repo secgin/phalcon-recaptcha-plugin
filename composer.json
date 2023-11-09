@@ -1,0 +1,21 @@
+{
+    "name": "secgin/phalcon-recaptcha-plugin",
+    "description": "Google Recaptcha Plugin For Phalcon Framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YG\\Recaptcha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "secgin"
+        }
+    ],
+    "require": {
+        "ext-phalcon": "~4.1.2"
+    },
+    "require-dev": {
+        "phalcon/ide-stubs": "~4.1"
+    }
+}
