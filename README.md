@@ -2,6 +2,11 @@
 
 Phalcon Framework ile Google reCAPTCHA v2 kullanımı için geliştirilmiş bir eklentidir.
 
+## Kurulum
+```bash
+composer require secgin/phalcon-recaptcha-plugin
+```
+
 ## Örnek Bir Login İşlemi İçin Recaptcha Kullanımı
 
 ### Ayarlar
