@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "YG\\Recaptcha\\": "src/"
+            "YG\\Phalcon\\Recaptcha\\": "src/"
         }
     },
     "authors": [

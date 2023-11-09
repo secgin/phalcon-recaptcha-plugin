@@ -1,6 +1,6 @@
 <?php
 
-namespace YG\Recaptcha;
+namespace YG\Phalcon\Recaptcha;
 
 use Phalcon\Di\DiInterface;
 use Phalcon\Di\ServiceProviderInterface;

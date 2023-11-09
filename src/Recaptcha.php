@@ -1,6 +1,6 @@
 <?php
 
-namespace YG\Recaptcha;
+namespace YG\Phalcon\Recaptcha;
 
 class Recaptcha implements RecaptchaInterface
 {

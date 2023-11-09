@@ -1,6 +1,6 @@
 <?php
 
-namespace YG\Phalcon\Validation\Validator;
+namespace YG\Phalcon\Recaptcha\Validation\Validator;
 
 use Phalcon\Validation;
 use Phalcon\Validation\AbstractValidator;

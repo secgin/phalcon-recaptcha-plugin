@@ -1,6 +1,6 @@
 <?php
 
-namespace YG\Phalcon\Forms\Element;
+namespace YG\Phalcon\Recaptcha\Forms\Element;
 
 use Phalcon\Forms\Element\AbstractElement;
 
