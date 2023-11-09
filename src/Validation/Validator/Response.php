@@ -4,7 +4,7 @@ namespace YG\Phalcon\Recaptcha\Validation\Validator;
 
 use Phalcon\Validation;
 use Phalcon\Validation\AbstractValidator;
-use YG\Recaptcha\Recaptcha as RecaptchaService;
+use YG\Phalcon\Recaptcha\Recaptcha as RecaptchaService;
 
 class Response extends AbstractValidator
 {
